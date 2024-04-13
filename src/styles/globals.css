@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* .style {
+    background-color: green;
+    padding-left: 5rem;
+} */
+
+/* Thin scrollbar */
+::-webkit-scrollbar {
+    width: 5px;
+  }
